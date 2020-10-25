@@ -1,3 +1,3 @@
-# -RecyclerView-1.1.0-Paging-2.2-PagedListAdapter-Adapter-
-# networkcheck
-# Network-PageListAdapter-networkStatus
+分页
+1、拉动到最下方，显示加载条
+2、断网，重新联网后，显示重试，加载新数据
